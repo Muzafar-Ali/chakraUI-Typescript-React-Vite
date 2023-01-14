@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <Box bg='gray.300' h='200px' w='200px'>
+      <Box as='section' bg='gray.300' h='200px' w='200px'>
         This is chakra UI Box
       </Box>
     </div>
